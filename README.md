@@ -1,3 +1,5 @@
+ENGLISH VERSION - [English](README.en.md)
+
 # Gestão de Estoque - API REST
 
 API REST de gestão de estoque e logística (WMS/ERP simulado), feita em **Java 21 com Spring Boot**. Controla fornecedores, produtos, entradas e saídas de mercadoria, alertas de estoque mínimo e relatórios de giro, com autenticação JWT e perfis de acesso.
